@@ -23,5 +23,5 @@ int FindDropFloor(int floor, int eggs){
 int main(){
 	int n,k;
 	std::cin>>n>>k;
-	std::cout<<FindDropFloor(n, k)<<"\n";
+	std::cout<<FindDropFloor(n, k)><"\n";
 }
